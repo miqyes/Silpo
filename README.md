@@ -22,7 +22,7 @@ A console-based order management system simulating the "Silpo" supermarket onlin
 * **OOP Architecture:** Encapsulation, constructors, and getter/setter methods.
 * **STL Vectors:** Dynamic management for the shopping cart.
 * **File I/O:** Persistent storage for order history.
-* **Input Manipulation:** Formatted currency output (2 decimal places).
+* **Input Manipulation:** Formatted currency output (2 decimal places).   
 
 ---
 
